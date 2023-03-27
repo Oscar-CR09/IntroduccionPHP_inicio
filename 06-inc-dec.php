@@ -1,5 +1,9 @@
 <?php include 'includes/header.php';
 
+$numero1 = 30;
+$numero++;
+
+echo $numero1;
 
 
 
